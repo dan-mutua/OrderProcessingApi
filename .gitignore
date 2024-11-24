@@ -1,0 +1,51 @@
+
+# .NET build files
+bin/
+obj/
+
+# User-specific files
+.vs/
+.vscode/
+.idea/
+
+# ASP.NET Core config files
+appsettings.Development.json
+appsettings.json
+
+# .env file
+.env
+
+# ASP.NET Core secret files
+secrets.json
+
+# JetBrains Rider files
+.idea/
+
+
+.env
+# User-specific VS Code settings
+.vscode/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer files
+Thumbs.db
+
+# OSX specific files
+.DS_Store
+
+# Node modules (if using Node.js for frontend)
+node_modules/
+
+# .NET Core global tools
+.dotnet/
+
+# Build directories
+build/
+
+# Docker files
+docker-compose.override.yml
